@@ -1,5 +1,4 @@
-##gwas switchgrass edwards et al. 2023 current biology
-setwd("C:/Users/plduran/Desktop/proposal/Core microbiota/figure1_withinspecies/barley_escudero")
+##gwas barley escudero et al. 2023 nat comms 2022
 design<- read.table("design.txt", header=TRUE, sep="\t")
 escudero<- readRDS("JH15_JH07_rare_ASV_10K.rds")
 OTU1 = as(otu_table(escudero), "matrix")
