@@ -1,0 +1,3 @@
+Article	Study_type	number_species	Microbial_group
+"A.thaliana (Thiergart et al., 2020, Nat. Eco.&Evo.)"	Multiple habitats	9	Fungi
+"Maize (He et al., 2023, bioRxiv)"	Multiple genotypes_one habitat	29	Fungi

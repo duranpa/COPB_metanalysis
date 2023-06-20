@@ -1,0 +1,7 @@
+Article	Study_type	number_species	Microbial_group
+"A. thaliana (Karasov et al., 2023, bioRxiv)"	Multiple habitats	12	Bacteria
+"A.thaliana (Thiergart et al., 2020, Nat. Eco.&Evo.)"	Multiple habitats	22	Bacteria
+"Barley (Escudero-Martinez et al., 2022, Nat Comms)"	Multiple genotypes_one habitat	29	Bacteria
+"Capsella (Karasov et al., 2023, bioRxiv)"	Multiple habitats	12	Bacteria
+"Maize (He et al., 2023, bioRxiv)"	Multiple genotypes_one habitat	29	Bacteria
+"Switchgrass (Edwards et al., 2023, Current Biology)"	Multiple genotypes_multiple habitats	31	Bacteria
